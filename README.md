@@ -1,0 +1,1 @@
+Made a simple hockey training house landing page using HTML , CSS , TailwindCSS and DaisyUI. Made it responsive for all devices.
