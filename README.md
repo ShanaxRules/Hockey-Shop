@@ -1,1 +1,1 @@
-Made a simple hockey training house landing page using HTML , CSS , TailwindCSS and DaisyUI. Made it responsive for all devices.
+Made a simple hockey training house landing page using HTML , CSS , TailwindCSS and DaisyUI. Made it responsive for all devices. Link to the website is : https://shanaxrules.github.io/Hockey-Shop/
